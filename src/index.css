@@ -1,13 +1,42 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: darkgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.post img {
+  width: 160px;
+  height: 200px;
+  margin-left: 20px;
+}
+.post h5 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: brown;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+.post {
+  padding: 20px;
+  border: 1px solid #830000;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.details {
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.details img {
+  width: 160px;
+  height: 200px;
+  margin-left: 20px;
+}
+.details h5 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: brown;
+  font-weight: 700;
 }

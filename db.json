@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "body": "джек лондон",
+      "author": "мартин иден",
+      "image": "https://bookhouse.kg/media/galleryphoto/2023/4/6e0f8149-46b3-4fb6-aab3-b37e0e6a0705.jpg.600x780_q94.jpg",
+      "id": 1
+    },
+    {
+      "body": "убийство в разгар зимы",
+      "author": "агата кристи",
+      "image": "https://books.google.kg/books/publisher/content?id=cONSEAAAQBAJ&hl=ru&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U3ZXbkWYhkwuAt1UNl-xx8PjSi49g&w=1280",
+      "id": 3
+    },
+    {
+      "body": "десять негритят",
+      "author": "агата кристи",
+      "image": "https://books.google.kg/books/publisher/content?id=whbODQAAQBAJ&hl=ru&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U1aYh2epowvLha-J2rwoVR4kQsuGg&w=1280",
+      "id": 4
+    },
+    {
+      "body": "скрюченный домишко",
+      "author": "агата кристи",
+      "image": "https://books.google.kg/books/publisher/content?id=M1AvCgAAQBAJ&hl=ru&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U3D8ymw2hD08b0fDx0wrXsH-i30YQ&w=1280",
+      "id": 5
+    }
+  ]
+}
